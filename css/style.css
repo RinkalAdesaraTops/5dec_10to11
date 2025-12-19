@@ -1,0 +1,19 @@
+h5 {
+    color: red;
+    background-color: aqua;
+    font-size: 45px;
+}
+
+#txt {
+    height: 200px;
+    width: 200px;
+    border-width: 2px;
+    border-color: black;
+    /* solid dashed dotted double */
+    border-style: double;
+}
+.box {
+    height: 50px;
+    width: 50px;
+    border: 2px dotted blueviolet;
+}

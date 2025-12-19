@@ -1,0 +1,24 @@
+.box {
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    color: brown;
+    background-color: bisque;
+    font-size: 25px;
+    /* font-family:'Courier New', Courier, monospace; */
+    /* font-weight: 600; */
+    /* line-height: 70px;
+    word-spacing: 30px;
+    letter-spacing: 4px; */
+    font-family: "Sekuya", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family:xyz;
+    src: url('DancingScript-VariableFont_wght.ttf');
+}
+p {
+    font-family: xyz;
+    font-size: 35px;
+}

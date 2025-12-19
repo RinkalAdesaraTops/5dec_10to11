@@ -1,0 +1,35 @@
+/* *{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.box{
+    height: 600px;
+    width: 700px;
+    border: 20px dotted blue;
+    background-image: url('flower.jpg');
+    background-clip: padding-box;
+    background-attachment: scroll;
+    /* background-repeat: no-repeat; */
+    /* background-clip: ; */
+    /* background-size: contain; */
+    /* background-position: 40% 60%; */
+    /* background-position: center; */
+    /* background-color: aquamarine; */
+    padding: 20px;
+    /* by default - content-box */
+    /* box-sizing: border-box; */
+}
+h4{
+    text-indent: 70px;
+    text-decoration: overline dotted;
+    text-transform: capitalize;
+    text-shadow: 4px 2px 1px blue;
+    /* text-decoration-line: underline; */
+    /* text-decoration-style: wavy; */
+    /* text-align: right; */
+}
+.fa-truck{
+    color:burlywood;
+    font-size: 15px;
+}
